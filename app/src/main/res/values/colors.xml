@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="biruza">#00FFD9</color>
+    <color name="bober">#6A00FF</color>
+    <color name="dark_gray">#293133</color>
+    <color name="peach">#FFDAB9</color>
+    <color name="dark_peach">#FBD2AD</color>
+</resources>

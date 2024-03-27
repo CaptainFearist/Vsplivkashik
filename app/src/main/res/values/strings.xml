@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Vsplivkashik</string>
+    <string name="searching">Поиск в почте</string>
+    <string name="btn_Profile">Профиль</string>
+    <string name="btn_Menu">Меню</string>
+    <string name="btn_Entrance">Входящие</string>
+    <string name="btn_Spam">Спам</string>
+    <string name="btn_Unread">Написать письмо</string>
+    <string name="btn_MyPosts">О нас</string>
+    <string name="btn_email">Email</string>
+
+</resources>
