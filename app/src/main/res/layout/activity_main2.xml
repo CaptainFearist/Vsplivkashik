@@ -42,7 +42,7 @@
                     android:id="@+id/imageView4"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    tools:srcCompat="@drawable/gmail" />
+                    android:src="@drawable/gmail" />
             </LinearLayout>
 
             <LinearLayout
@@ -88,7 +88,7 @@
                     android:id="@+id/imageView5"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    tools:srcCompat="@drawable/yandex" />
+                    android:src="@drawable/yandex" />
             </LinearLayout>
 
             <LinearLayout
@@ -135,7 +135,7 @@
                     android:id="@+id/imageView6"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
-                    tools:srcCompat="@drawable/netflix" />
+                    android:src="@drawable/netflix" />
             </LinearLayout>
 
             <LinearLayout
