@@ -23,4 +23,8 @@ public class MainActivity extends AppCompatActivity {
         startActivity(i2);
     }
 
+    public void goToNextPage3(View view) {
+        Intent i = new Intent(this, MainActivity4.class);
+        startActivity(i);
+    }
 }

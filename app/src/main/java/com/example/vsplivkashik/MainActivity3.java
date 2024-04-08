@@ -1,6 +1,8 @@
 package com.example.vsplivkashik;
 
+import android.content.Intent;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Toast;
@@ -73,5 +75,9 @@ public class MainActivity3 extends AppCompatActivity {
                 runOnUiThread(() -> Toast.makeText(MainActivity3.this, "Ошибка отправки письма!", Toast.LENGTH_SHORT).show());
             }
         }).start();
+    }
+    public void goToNextPageBack2(View view) {
+        Intent i = new Intent(this, MainActivity.class);
+        startActivity(i);
     }
 }

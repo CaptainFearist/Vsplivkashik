@@ -86,6 +86,7 @@
                     android:layout_weight="1"
                     android:gravity="center"
                     android:text="@string/btn_MyPosts"
+                    android:onClick="goToNextPage3"
                     android:textColor="@color/dark_gray" />
 
             </LinearLayout>
