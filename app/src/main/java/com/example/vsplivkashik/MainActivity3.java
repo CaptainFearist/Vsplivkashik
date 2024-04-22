@@ -44,7 +44,7 @@ public class MainActivity3 extends AppCompatActivity {
     private void sendEmail(String recipient, String subject, String message) {
         new Thread(() -> {
             final String username = "golenischev2109@mail.ru";
-            final String password = "aggtafkNyDTmMWrgmG3C";
+            final String password = "Your Password";
 
             Properties props = new Properties();
             props.put("mail.smtp.auth", "true");
